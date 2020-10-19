@@ -6,3 +6,5 @@ Planned Routes:
     - token
     - forgot password
     - reset password
+
+    /* Change to correct filepath with "cd /d D:\GIT Clonsed Repos\Rest_API" */
